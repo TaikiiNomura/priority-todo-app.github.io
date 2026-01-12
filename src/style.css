@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.high { color: red; }
+.medium { color: orange; }
+.low { color: green; }
+
+li {
+  margin: 5px 0;
+}
